@@ -14,7 +14,7 @@ Lavínia Beghini <br>
 - 💻 Main expertise in Java, Python, JavaScript, TypeScript
 - ⚙️ Knowledge in ReactJS, NodeJS, React Native, Git, Docker, Kubernetes 
 - ☁️ Studying about cloud architectures
-- 📚 Working on college projects
+- 📚 Working on research projects
 
 ### Other info
 
