@@ -24,3 +24,5 @@ Lavínia Beghini <br>
 - 🍺 In my free time I really like to hang out with friends
 - ✈️ Dreaming about visiting other countries
 
+
+> Made with 💜 by Lavínia Beghini
