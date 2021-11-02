@@ -20,9 +20,10 @@ Lavínia Beghini <br>
   <img src="https://img.shields.io/badge/-StackOverflow-03989E?style=flat-square&labelColor=03989E&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13160199/lavínia-beghini?tab=profile" />
 </a>
 
-<a href="https://stackoverflow.com/users/13160199/lavínia-beghini?tab=profile">
+<a href="https://discordapp.com/users/impatient/6632">
   <img src="https://img.shields.io/badge/-Discord-03989E?style=flat-square&labelColor=03989E&logo=discord&logoColor=white&link=https://discordapp.com/users/impatient/6632" />
 </a>
+
 
 ## About me
 
