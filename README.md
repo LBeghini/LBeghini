@@ -27,7 +27,7 @@ Lavínia Beghini <br>
 
 ## About me
 
-- 🚀 Software Developer Intern 
+- 🚀 Software Engineer 
 - 🎓 Graduating at Computer Information Systems 
 - 💾 Computer Techinician
 - 💻 Main expertise in Java, Python, JavaScript, TypeScript
