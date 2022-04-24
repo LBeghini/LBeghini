@@ -37,7 +37,7 @@ Lavínia Beghini <br>
 
 ### Other info
 
-- 🔊 I am a English speaker
+- 🔊 I am an English speaker
 - ♥️ Passionate about systems architecture 
 - 🎵 Always listening to music!
 - 🍺 In my free time I really like to hang out with friends
